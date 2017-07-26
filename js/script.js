@@ -1,5 +1,5 @@
 var saymyname = function (name) {
-	alert('Kariny, aparentemente voce tem que transar comigo obrigatoriamente, ass:'+name);
+	alert('I would really like to fuck you :D. Ass:'+name);
 }
 
 var car = {
